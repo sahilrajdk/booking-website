@@ -5,9 +5,13 @@
   box-shadow: var(--shadow-dark);
 }
 .header {
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: space-between;
   height: 7rem;
   background-color: #fff;
   border-bottom: var(--color-Grey-light-2);
+  align-items: center;
 }
 
 .content {
