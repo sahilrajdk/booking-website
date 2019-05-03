@@ -1,0 +1,16 @@
+{
+  "name": "booking-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://sahilrajdk.github.io/booking-website",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
